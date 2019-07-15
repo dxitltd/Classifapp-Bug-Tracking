@@ -1,2 +1,2 @@
-# Classifapp-Bug-Tracking
+# Classifapp Issue Tracking
 Report bugs and issues here
